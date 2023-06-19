@@ -23,7 +23,9 @@ I am a New Graduate Software Developer <img src="https://media.giphy.com/media/W
 - :mailbox: Connect me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xuantran93/)
 <br/>
 <hr/>
+
 ### 💼 Tools and Languages
+<br/>
 <div>
 <code><img width="40" height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width="40" height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -31,9 +33,19 @@ I am a New Graduate Software Developer <img src="https://media.giphy.com/media/W
 <code><img width="40" height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img width="40" height="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </code>
+<code><img width="40" height="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+</code>
+<code><img width="40" height="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</code>
+
 </div>
 <br/>
-<hr/>  
+<hr/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cougarhighland&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cougarhighland&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
